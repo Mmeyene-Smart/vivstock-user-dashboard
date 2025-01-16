@@ -9,7 +9,7 @@ const generateData = (days) => {
 };
 
 const timeframeData = {
-  '7d': './chart.png',
+  '7d': './charts.png',
   '1m': generateData(30),
   '3m': generateData(40),
 };
